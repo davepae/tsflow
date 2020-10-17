@@ -8,6 +8,6 @@
 2. c++ libraries: [libtensorflow.tar.gz](https://1drv.ms/u/s!ArHAPNFYUSGMh_gji1x7C2KqxB7nDA?e=TLxQYy)
 
 
-## Rapberry PI 4(August 2020 Beta OS - Debian aarch64)
+## Rapberry PI 4 (August 2020 Beta OS - Debian aarch64)
 
 1. python 3.7: [tensorflow-2.3.1-cp37-cp37m-linux_aarch64.whl](https://1drv.ms/u/s!ArHAPNFYUSGMh_gle_mQSfu0PPcgFA?e=nmDP5f)

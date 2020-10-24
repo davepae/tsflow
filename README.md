@@ -1,13 +1,18 @@
-# TensorFlow 2.3.1 compiled on aarch64 PI4 and Debian Focal
+# TensorFlow Builds for autopilot car projects:
+Here's a list of TF source builds that I use with robocar projects.
 
-## Debian Focal (i.e. Ubuntu 20.04)
+# TensorFlow 1.15.4 compiled on aarch64 PI4 and Ubuntu 18.04
 
-1. python 3.8: [tensorflow-2.3.1-cp38-cp38-linuxx86_64.whl](https://1drv.ms/u/s!ArHAPNFYUSGMh_gkRItwkyvlpaJxLg?e=anBN8F)
-   * No CUDA support
+## RPI 4 (8/2020 Beta OS - Debian aarch64)
+Python 3.7 and c++ libraries: [folder](https://1drv.ms/u/s!ArHAPNFYUSGMh_shFhVNZo1DPDEEfg?e=b2Qcbi)
 
-2. c++ libraries: [libtensorflow.tar.gz](https://1drv.ms/u/s!ArHAPNFYUSGMh_gji1x7C2KqxB7nDA?e=TLxQYy)
+## Ubuntu 18.04 (x84_64)
+Python 3.6 and c++ libraries: [folder](https://1drv.ms/u/s!ArHAPNFYUSGMh_scSo-xzwXfCLYKzA?e=AQ6BpY)
 
+# TensorFlow 2.3.1 compiled on aarch64 PI4 and Ubuntu 20.04
 
 ## Rapberry PI 4 (August 2020 Beta OS - Debian aarch64)
+Python 3.7 and c++ libraries: [folder](https://1drv.ms/u/s!ArHAPNFYUSGMh_shFhVNZo1DPDEEfg?e=nUqDgh)
 
-1. python 3.7: [tensorflow-2.3.1-cp37-cp37m-linux_aarch64.whl](https://1drv.ms/u/s!ArHAPNFYUSGMh_gle_mQSfu0PPcgFA?e=nmDP5f)
+## Ubuntu 20.04
+Python 3.8 and c++ libraries: [folder](https://1drv.ms/u/s!ArHAPNFYUSGMh_silxPNxUsJa7aKAg?e=rhOlmB)

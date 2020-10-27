@@ -1,4 +1,4 @@
-# TensorFlow Builds for autopilot car projects:
+# TensorFlow Builds:
 Wheel and libraries built from TensorFlow github source. No CUDA support as I use AMD cpu/gpu.
 
 ## TensorFlow 1.15.4 compiled on aarch64 RPI4 and Ubuntu 18.04
